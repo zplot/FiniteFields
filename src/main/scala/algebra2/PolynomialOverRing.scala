@@ -10,7 +10,7 @@ object PolynomialOverRing {
     new PolynomialOverRing(ring)
   }
 
-  //implicit def conv1(x: PolynomialOverRing.T1): PolynomialOverRing.T1 = "B: %d" format b.m
+
 
 
 }
